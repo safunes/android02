@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">interfaces01</string>
+    <string name="btn_login">Ingresar</string>
+    <string name="txt_user">Nombre de usuario</string>
+    <string name="txt_passwd">Contraseña</string>
+
+</resources>
